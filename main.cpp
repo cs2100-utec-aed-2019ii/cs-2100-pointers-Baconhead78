@@ -80,7 +80,9 @@ ejercicio 18
 18
 
 ejercicio 19
+elimina los " "
 	
-
+ejercicio 20
+cambia las "," por " "
 */
 
